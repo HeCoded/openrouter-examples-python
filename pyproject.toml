@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-langchain = "^0.0.335"
+langchain = "^0.2.5"
 litellm = "^0.14.1"
 openai = "^1.21.0"
 python-dotenv = "^1.0.0"
